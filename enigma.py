@@ -1,5 +1,3 @@
-from random import choice
-from string import ascii_lowercase as al_def, ascii_uppercase as au_def
 from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives.asymmetric import rsa, padding
 from cryptography.hazmat.primitives import serialization, hashes

@@ -2,8 +2,8 @@
 This project is a recreation of the Enigma machine, the complex cipher device used by the German military during World War II to secure communications.
 
 <div align="center">
-    <img src="extra/enigma_photo.jpg" alt="Enigma Car Photo"/>
-    <img src="extra/enigma_close_photo.jpg" alt="Enigma Close Photo"/>
+    <img src="extra/enigma_photo.jpg" alt="Enigma Car Photo" width="350" height="600"/>
+    <img src="extra/enigma_close_photo.jpg" alt="Enigma Close Photo" width="350" height="600"/>
 </div>
 
 
